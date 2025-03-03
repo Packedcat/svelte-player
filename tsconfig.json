@@ -1,0 +1,4 @@
+{
+  "compilerOptions": { "composite": true },
+  "include": ["src/**/*.svelte", "src/**/*.ts", "index.ts", "env.d.ts"]
+}
